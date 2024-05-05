@@ -1,4 +1,4 @@
-### Welcome! they call me Thiago Alves and I'm a Front-end developer.
+### Welcome! They call me Thiago Alves and I'm a Front-end developer.
 
 #
 
