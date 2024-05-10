@@ -16,7 +16,7 @@
 
  <h3 align="left">Let's talk</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFcolor:FFF)](hhttps://www.linkedin.com/in/thiagoalves89/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFFcolor:FFF)](https://www.linkedin.com/in/thiagoalves89/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF&color:FFF)](https://www.instagram.com/thiagoalvess89/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFcolor:FFF)](mailto:thiagoalves.devp@gmail.com)
 <br>
