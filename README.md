@@ -8,7 +8,7 @@
 <h3 align="left">About me</h3>
 
   ```js
-  👩🏻‍💻 Front-end Developer
+  👩🏻‍💻 Front End Developer
   📚 Currently studying Systems analysis and development
 ```
 
