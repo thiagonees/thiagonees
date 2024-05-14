@@ -13,7 +13,7 @@
 
   👩🏻‍💻 Frontend Developer
 
-  📚 Currently studying systems analysis and development
+  🎓 Systems Analysis and Development student @Estacio
 
 #
 
