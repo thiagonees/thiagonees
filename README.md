@@ -10,10 +10,10 @@
  ##### [Sobre mim]
 <h3 align="left">📌 About me</h3>
 
+ 
+  👩🏻‍💻 Staff Software Engineer @ [Wave&CO](https://www.linkedin.com/company/wave-and-co/)
 
-  👩🏻‍💻 Frontend Developer
-
-  🎓 Systems Analysis and Development student @Estacio
+  🎓 Systems Analysis and Development student @[Estácio](https://estacio.br/)
 
 #
 
