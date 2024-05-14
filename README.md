@@ -10,11 +10,11 @@
  ##### [Sobre mim]
 <h3 align="left">📌 About me</h3>
 
-  ```js
+
   👩🏻‍💻 Frontend Developer
 
   📚 Currently studying systems analysis and development
-```
+
 #
 
  </div>
