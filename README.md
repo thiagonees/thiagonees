@@ -1,4 +1,5 @@
-### Welcome! They call me Thiago Alves and I'm a Front-end developer.
+### Hello there!👋
+Welcome! I'm Thiago Alves and I'm a Front-end developer.
 #### This is my new accout because github has flagged my other.
 
 #
