@@ -18,9 +18,7 @@
 #
 
  </div>
- <br>
 
-  
   [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
   [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
   [TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
