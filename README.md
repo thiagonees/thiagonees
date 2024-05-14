@@ -3,8 +3,8 @@
 ### Hello there!👋
 
 
-##### (Bem-vindo! Sou Thiago Alves.)
-### Welcome! I'm Thiago Alves.
+##### (Bem-vindo!)
+### Welcome! 😉
 
 
 ##### (Essa é minha segunda conta, porque o github sinalizou a minha outra.)
