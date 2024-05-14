@@ -1,6 +1,6 @@
 
 ### Hello there!👋
-### Welcome! I'm Thiago Alves and I'm a Frontend developer.
+### Welcome! I'm Thiago Alves.
 #### This is my new accout because github has flagged my other.
 
 
