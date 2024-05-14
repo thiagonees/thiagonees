@@ -1,13 +1,13 @@
 
-##### (Olá, seja bem-vindo!)
+##### [Olá, seja bem-vindo!]
 ### Hello there, welcome!👋
 
-##### (Essa é minha segunda conta, porque o github sinalizou a minha outra.)
+##### [Essa é minha segunda conta, porque o github sinalizou a minha outra.]
 ### This is my new accout because github has flagged my other.
 
 #
 
- ##### (Sobre mim)
+ ##### [Sobre mim]
 <h3 align="left">📌 About me</h3>
 
   ```js
@@ -25,7 +25,7 @@
   [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
   [TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
 
- ##### (Tecnologias)
+ ##### [Tecnologias]
  <h3 align="left">💻 Techs </h3>
 
 
@@ -35,7 +35,7 @@
 
 #
 
- ##### (Vamos conversar)
+ ##### [Vamos conversar]
 
  <h3 align="left">😁 Let's talk</h3>
 
