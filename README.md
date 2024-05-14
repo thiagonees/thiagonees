@@ -7,9 +7,6 @@
 
 <h3 align="left">About me</h3>
 
-<div align="left" >  
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkxeTRwZG55YjQ2ZGxmZnp6bHhhNDF5b2sybjVnbzg2bGk3eHd6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  width="250"  align="right"  alt="Formando img"/>
-   
   ```js
   👩🏻‍💻 Front-end Developer
   📚 Currently studying Systems analysis and development
