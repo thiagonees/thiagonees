@@ -3,7 +3,7 @@
 ### Welcome! I'm Thiago Alves.
 #### This is my new accout because github has flagged my other.
 
-
+#
 
 <h3 align="left">About me</h3>
 
@@ -12,10 +12,23 @@
 
   📚 Currently studying systems analysis and development
 ```
-
+#
 
  </div>
  <br>
+
+  
+  [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+  [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
+  [TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+
+ <h3 align="left"Techs:/h3>
+
+![javascript][JAVASCRIPT__BADGE]
+![react][REACT__BADGE]
+![typescript][TYPESCRIPT__BADGE]
+
+#
 
  <h3 align="left">Let's talk</h3>
 
@@ -24,7 +37,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFcolor:FFF)](mailto:thiagoalves.devp@gmail.com)
 <br>
 <br>
-#
+
 
 
 
