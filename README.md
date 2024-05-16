@@ -35,12 +35,17 @@
  <h3 align="left">😁 Let's talk</h3>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoalves89/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoalvess89/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoalves.devp@gmail.com)
-<br>
-<br>
 
+<a href="https://twitter.com/d_berbattov" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-berbattov-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/thiagoalves89" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-thiagoalves89-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/thiagoalvess89" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-thiagoalvess89-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
 
 
 
