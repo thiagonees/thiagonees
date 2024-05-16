@@ -29,6 +29,7 @@
 
 
 <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,docker,graphql" width="40%">
+
 #
 
  ##### [Vamos conversar]
