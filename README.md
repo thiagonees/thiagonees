@@ -36,6 +36,9 @@
 
 
 
+<a href="mailto:thiagoalves.devp@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/-thiagoalvess89-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
 <a href="https://twitter.com/d_berbattov" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-berbattov-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
