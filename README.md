@@ -17,6 +17,8 @@
 
   🎓 Systems Analysis and Development student @[Estácio](https://estacio.br/)
 
+  🎹 Music and Game addict 😁
+
 #
 
  </div>
