@@ -26,7 +26,7 @@
  <h3 align="left">💻 Techs </h3>
 
 
-<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,docker,graphql" width="25%">
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,docker,graphql,postgresql" width="25%">
 
 #
 
