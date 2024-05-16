@@ -24,13 +24,11 @@
   [TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
 
  ##### [Tecnologias]
+ 
  <h3 align="left">💻 Techs </h3>
 
 
-![javascript][JAVASCRIPT__BADGE]
-![react][REACT__BADGE]
-![typescript][TYPESCRIPT__BADGE]
-
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,docker,graphql" width="50%">
 #
 
  ##### [Vamos conversar]
