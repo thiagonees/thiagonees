@@ -1,11 +1,11 @@
 
- ### Hello there, welcome!👋
+ #### Hello there, welcome!👋
  
-### This is my new accout because github has flagged my other.
+#### This is my new accout because github has flagged my other.
 
 # 
 
-<h3 align="left">📌 About me</h3>
+<h4 align="left">📌 About me</h4>
 
  
   👩🏻‍💻 Staff Software Engineer @ [Wave&CO](https://www.linkedin.com/company/wave-and-co/)
