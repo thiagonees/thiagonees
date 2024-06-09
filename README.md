@@ -17,6 +17,8 @@
 
   🎓 Systems Analysis and Development student @[Estácio](https://estacio.br/)
 
+  📚 Learning Php and Laravel 
+
   🎹 Music and Game addict 😁
 
 #
