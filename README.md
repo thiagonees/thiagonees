@@ -1,15 +1,11 @@
 
-
-
-##### [Olá, seja bem-vindo!] 
-### Hello there, welcome!👋
+ ### Hello there, welcome!👋
  
 ##### [Essa é minha segunda conta, porque o github sinalizou a minha outra.]
 ### This is my new accout because github has flagged my other.
 
 # 
 
- ##### [Sobre mim]
 <h3 align="left">📌 About me</h3>
 
  
@@ -25,7 +21,6 @@
 
  </div>
 
- ##### [Tecnologias]
  
  <h3 align="left">💻 Techs </h3>
 
@@ -34,7 +29,6 @@
 
 #
 
- ##### [Vamos conversar]
 
  <h3 align="left">😁 Let's talk</h3>
 
