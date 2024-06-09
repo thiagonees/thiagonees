@@ -21,7 +21,7 @@
  </div>
 
  
- <h3 align="left">💻 Techs </h3>
+ <h4 align="left">💻 Techs </h4>
 
 
 <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,docker,graphql,postgresql,php,laravel" width="40%">
