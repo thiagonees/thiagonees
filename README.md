@@ -1,7 +1,6 @@
 
  ### Hello there, welcome!👋
  
-##### [Essa é minha segunda conta, porque o github sinalizou a minha outra.]
 ### This is my new accout because github has flagged my other.
 
 # 
