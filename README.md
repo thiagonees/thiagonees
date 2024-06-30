@@ -12,7 +12,7 @@
 
   🎓 Systems Analysis and Development student @[Estácio](https://estacio.br/)
 
-  📚 Learning PHP and Laravel 
+  📚 Learning PHP and Laravel
 
   🎹 Music and Game addict 😁
 
