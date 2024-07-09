@@ -1,7 +1,7 @@
 
   👩🏻‍💻 Staff Software Engineer @ [Wave&CO](https://www.linkedin.com/company/wave-and-co/)
 
-  👩🏻‍💻 Backend Developer @ [EasyCode](https://www.linkedin.com/company/EasyCOde)
+  👩🏻‍💻 Backend Developer @ [EasyCode Brasil](https://www.linkedin.com/company/EasyCodeBrasil)
 
   🎓 Systems Analysis and Development student @[Estácio](https://estacio.br/)
 
