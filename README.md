@@ -25,8 +25,8 @@
 <a href="https://linkedin.com/in/thiagoalves89" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-thiagoalves89-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/thiagoalvess89" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-thiagoalvess89-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/thiagonees" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-thiagoanees-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
