@@ -3,7 +3,7 @@
 
   👩🏻‍💻 Backend Developer @ [EasyCode Brasil](https://www.linkedin.com/company/EasyCodeBrasil)
 
-  🎓 Systems Analysis and Development student @[Estácio](https://estacio.br/)
+  🎓 Systems Analysis and Development student
 
   📚 Learning PHP and Laravel
 
