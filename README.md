@@ -1,13 +1,10 @@
+👩🏻‍💻 Backend Developer @ [EasyCode Brasil](https://www.linkedin.com/company/EasyCodeBrasil)
 
-  👩🏻‍💻 Staff Software Engineer @ [Wave&CO](https://www.linkedin.com/company/wave-and-co/)
+🎓 Systems Analysis and Development student
 
-  👩🏻‍💻 Backend Developer @ [EasyCode Brasil](https://www.linkedin.com/company/EasyCodeBrasil)
+📚 Learning PHP and Laravel
 
-  🎓 Systems Analysis and Development student
-
-  📚 Learning PHP and Laravel
-
-  🎹 Music and Game addict 😁
+🎹 Music and Game addict 😁
 
 #
 
