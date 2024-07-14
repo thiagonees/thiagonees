@@ -8,7 +8,6 @@
 
 #
 
-
 <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,typescript,docker,graphql,postgresql,php,laravel" width="40%">
 
 
