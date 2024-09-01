@@ -1,5 +1,7 @@
 👩🏻‍💻 Backend Developer @ [EasyCode Brasil](https://www.linkedin.com/company/EasyCodeBrasil)
 
+👩🏻‍💻 Front-end developer @ [EasyCode Brasil](https://www.linkedin.com/company/wave-and-co)
+
 🎓 Systems Analysis and Development student
 
 📚 Learning PHP and Laravel
