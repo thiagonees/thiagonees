@@ -1,6 +1,6 @@
 👩🏻‍💻 Backend Developer @ [EasyCode Brasil](https://www.linkedin.com/company/EasyCodeBrasil)
 
-👩🏻‍💻 Front-end developer @ [EasyCode Brasil](https://www.linkedin.com/company/wave-and-co)
+👩🏻‍💻 Front-end developer @ [Wave&CO](https://www.linkedin.com/company/wave-and-co)
 
 🎓 Systems Analysis and Development student
 
