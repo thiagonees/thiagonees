@@ -1,4 +1,4 @@
-👩🏻‍💻 Backend Developer @ [EasyCode Brasil](https://www.linkedin.com/company/EasyCodeBrasil)
+👩🏻‍💻 Backend Developer @ [EasyCode Brasil](https://www.linkedin.com/company/easycodebr/)
 
 👩🏻‍💻 Front-end developer @ [Wave&CO](https://www.linkedin.com/company/wave-and-co)
 
