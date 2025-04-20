@@ -1,5 +1,4 @@
-👩🏻‍💻 Staff Software Engineer @ [Wave&CO](https://www.linkedin.com/company/wave-and-co)
-
+👩🏻‍💻 Staff Software Engineer
 🎓 Systems Analysis and Development student
 
 📚 Learning PHP and Laravel
