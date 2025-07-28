@@ -2,7 +2,9 @@
 
 🎓 Systems Analysis and Development student
 
-📚 Javascript, React, NextJS, TailwindCSS and Learning PHP with Laravel
+💻 Javascript, React, NextJS, TailwindCSS.
+
+📚 Learning PHP with Laravel
 
 🎹 Music and Game addict 😁
 
